@@ -2,7 +2,7 @@
 
 Awesome UI Components 
 
-**Legend**: 💙 Official resource
+**Legend** : 💙 Official resource
 
 - 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 - 💙 [Repository](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
@@ -15,7 +15,7 @@ Awesome UI Components
 
 ## UI Libraries, Components & Templates
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
+**Legend** : 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
  - https://preline.co
  - https://mambaui.com
