@@ -1,4 +1,4 @@
-# snappyui
+# SnappyUI
 
 Awesome UI Components 
 
