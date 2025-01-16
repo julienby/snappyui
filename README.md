@@ -27,7 +27,9 @@ Awesome UI Components
  - https://tailblocks.cc/
  - https://www.tailwind-kit.com/
  - https://kutty.netlify.app/
+ - https://www.hyperui.dev/
 
 
 ## Animations
  - On/Off : https://codepen.io/milanraring/pen/KKwRBQp
+ - Todo : https://codepen.io/milanraring/pen/QWbqBGo
