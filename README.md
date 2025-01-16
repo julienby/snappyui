@@ -24,6 +24,7 @@ Awesome UI Components
  - https://www.tailwind-kit.com/
  - https://kutty.netlify.app/
  - https://www.hyperui.dev/
+ - https://www.wickedblocks.dev/
 
 
 ## Animations
