@@ -10,16 +10,12 @@ Awesome UI Components
 - 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 - 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- 💙 [Discord](https://tailwindcss.com/discord) - Official Discord server to connect with other community members about Tailwind CSS.
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 
 
 ## UI Libraries, Components & Templates
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
-
-
-## Starters & Themes
 
  - https://preline.co
  - https://mambaui.com
